@@ -1,11 +1,11 @@
 streamlit
 pandas
-numpy
-opencv-python-headless
 pillow
-pytesseract
-scikit-learn
-sqlalchemy
-fpdf
 pdfplumber
 pypdfium2
+sqlalchemy
+reportlab
+opencv-python-headless
+pytesseract
+numpy
+scikit-learn
